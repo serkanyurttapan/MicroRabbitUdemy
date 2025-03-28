@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "guQ/g2bkuuM=",
+  "dgSpecHash": "vDQOK/U76ys=",
   "success": true,
   "projectFilePath": "/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Domain/MicroRabbit.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/serkan.yurttapan/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/serkan.yurttapan/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/serkan.yurttapan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
