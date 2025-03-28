@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroRabbit.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12f2424488fafeafdac1ab9f25c87eb9b1aa6b29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbe46f271e0032833ca7553781f0b684745201a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroRabbit.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroRabbit.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
