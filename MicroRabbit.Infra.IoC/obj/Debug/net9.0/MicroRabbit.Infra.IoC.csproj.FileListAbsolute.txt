@@ -1,0 +1,12 @@
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Infra.IoC.deps.json
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Infra.IoC.dll
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Infra.IoC.pdb
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/MicroRabbit.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/MicroRabbit.Infra.IoC.AssemblyInfo.cs
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/MicroRabbit.Infra.IoC.sourcelink.json
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/MicroRabbit.Infra.IoC.dll
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/refint/MicroRabbit.Infra.IoC.dll
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/MicroRabbit.Infra.IoC.pdb
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/ref/MicroRabbit.Infra.IoC.dll
