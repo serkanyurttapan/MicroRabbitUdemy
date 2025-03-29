@@ -1,8 +1,11 @@
-## Build results
+## Build artifacts
 bin/
 obj/
-[Ll]og/
-*.log
+*.dll
+*.exe
+*.pdb
+*.cache
+*.mdb
 
 ## User-specific files
 *.suo
@@ -10,52 +13,36 @@ obj/
 *.userosscache
 *.sln.docstates
 .vs/
-
-## Rider
 .idea/
+*.DotSettings.user
 
-## OS generated files
+## OS junk
 [Tt]humbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 
-## Paketler
+## NuGet
 *.nupkg
 *.snupkg
 *.nuspec
 packages/
-*.bak
-*.tmp
+project.lock.json
+project.fragment.lock.json
 
-## Publish output
+## Publish
 publish/
 out/
 
-## Resharper
-_ReSharper*/
-*.DotSettings.user
-
-## ASP.NET Scaffolding
-ScaffoldingReadMe.txt
-
-## dotnet secrets
-secrets.json
-
-## Entity Framework Migrations
-Migrations/
-
-## Test sonuçları
+## Test
 TestResults/
 *.coverage
 *.coveragexml
 
-## Docker
-**/*.pid
-*.db
+## EF Migrations
+Migrations/
 
 ## Local config
 appsettings.*.local.json
 
-## Rider
+## Rider / JetBrains
 .idea/
-*.DotSettings.user
