@@ -10,3 +10,15 @@
 /Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/refint/MicroRabbit.Infra.IoC.dll
 /Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/MicroRabbit.Infra.IoC.pdb
 /Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/ref/MicroRabbit.Infra.IoC.dll
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Domain.dll
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Infra.Bus.dll
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Microservices.Banking.Application.dll
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Microservices.Banking.Data.dll
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Microservices.Banking.Domain.dll
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Domain.pdb
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Infra.Bus.pdb
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Microservices.Banking.Application.pdb
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Microservices.Banking.Data.pdb
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/bin/Debug/net9.0/MicroRabbit.Microservices.Banking.Domain.pdb
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/MicroRabbit.Infra.IoC.csproj.AssemblyReference.cache
+/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Infra.IoC/obj/Debug/net9.0/MicroRab.DF4136F0.Up2Date
