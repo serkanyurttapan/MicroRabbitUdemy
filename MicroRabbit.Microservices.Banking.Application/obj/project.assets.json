@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "MicroRabbit.Microservices.Banking.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MicroRabbit.Microservices.Banking.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Microservices.Banking.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MicroRabbit.Microservices.Banking.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Microservices.Banking.Domain/MicroRabbit.Microservices.Banking.Domain.csproj",
+      "msbuildProject": "../MicroRabbit.Microservices.Banking.Domain/MicroRabbit.Microservices.Banking.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "MicroRabbit.Microservices.Banking.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/serkan.yurttapan/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Microservices.Banking.Domain/MicroRabbit.Microservices.Banking.Domain.csproj": {
+              "projectPath": "/Users/serkan.yurttapan/RiderProjects/MicroRabbitUdemy/MicroRabbit.Microservices.Banking.Domain/MicroRabbit.Microservices.Banking.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
