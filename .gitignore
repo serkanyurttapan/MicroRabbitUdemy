@@ -1,0 +1,61 @@
+## Build results
+bin/
+obj/
+[Ll]og/
+*.log
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+## Rider
+.idea/
+
+## OS generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+## Paketler
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.bak
+*.tmp
+
+## Publish output
+publish/
+out/
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## dotnet secrets
+secrets.json
+
+## Entity Framework Migrations
+Migrations/
+
+## Test sonuçları
+TestResults/
+*.coverage
+*.coveragexml
+
+## Docker
+**/*.pid
+*.db
+
+## Local config
+appsettings.*.local.json
+
+## Rider
+.idea/
+*.DotSettings.user
