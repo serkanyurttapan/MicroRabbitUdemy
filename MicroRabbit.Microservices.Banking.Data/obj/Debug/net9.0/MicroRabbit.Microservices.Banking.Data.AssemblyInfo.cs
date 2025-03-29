@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroRabbit.Microservices.Banking.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3c4fcbec35648b6bb911deba68b06e975e48f97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4da10a344a3a4a4045a49305c14df7621500d86")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroRabbit.Microservices.Banking.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroRabbit.Microservices.Banking.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
