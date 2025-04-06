@@ -46,3 +46,7 @@ appsettings.*.local.json
 
 ## Rider / JetBrains
 .idea/
+# Local settings
+appsettings.Local.json
+**/appsettings.Local.json
+*/appsettings.Local.json
