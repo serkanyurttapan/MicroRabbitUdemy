@@ -3,6 +3,7 @@ using System.Runtime.CompilerServices;
 using MediatR;
 using MicroRabbit.Infra.IoC;
 using MicroRabbit.Microservices.Banking.Application.Interfaces;
+using MicroRabbit.Microservices.Banking.Application.Models;
 using MicroRabbit.Microservices.Banking.Data.Context;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
@@ -36,10 +37,7 @@ builder.Services.AddSwaggerGen(options =>
     });
 });
 
-builder.Services.AddMediatR(cfg =>
-{
-    cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly());
-});
+builder.Services.AddMediatR(cfg => { cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()); });
 
 var app = builder.Build();
 
@@ -50,18 +48,17 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseSwagger();
-app.UseSwaggerUI(c =>
-{
-    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Banking Microservice V1");
-});
+app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "Banking Microservice V1"); });
 
 app.UseHttpsRedirection();
 
-app.MapGet("/banking", (IAccountService _accountService) =>
-    {
-        return _accountService.GetAccounts();
-    })
-    .WithName("GetWeatherForecast");
+app.MapGet("/banking", (IAccountService _accountService) => { return _accountService.GetAccounts(); });
+
+app.MapPost("/banking", (AccountTransfer transfer, IAccountService _accountService) =>
+{
+    _accountService.Transfer(transfer);
+    return Results.Ok(transfer);
+});
+
 
 app.Run();
-
